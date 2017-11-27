@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../stepik/.idea/workspace.xml" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/FOR_ALL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../stepik/src/FOR_ALL.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/ABC_TestForAll.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/ABC_TestForAll.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/ArraySort.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/ArraySort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/ArraysMerge.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/ArraysMerge.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/BigFactorial.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/BigFactorial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/ComplexNumber.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/ComplexNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/EnumTest$Direction.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/EnumTest$Direction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/EnumTest.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/EnumTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/Palindrom.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/Palindrom.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot$1.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot$Direction.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot$Direction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/Robot.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/RobotAns$Dic.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/RobotAns$Dic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/RobotAns.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/RobotAns.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/Roles_2_4.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/Roles_2_4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/TestClass.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/TestClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_8/AsciiCharSequence.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_8/AsciiCharSequence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_8/Main.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_8/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/KeywordAnalyzer.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/KeywordAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/Label.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/Label.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/Main.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/NegativeTextAnalyzer.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/NegativeTextAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/SpamAnalyzer.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/SpamAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/TextAnalyzer.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/TextAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/TooLongTextAnalyzer.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson3_5_9/TooLongTextAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson4_1_10/lesson4_1_10.class" afterPath="$PROJECT_DIR$/../stepik/out/production/stepik/lesson4_1_10/lesson4_1_10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestForAll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TestForAll/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/.idea/misc.xml" afterPath="$PROJECT_DIR$/../stepik/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../stepik/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stepik/src/Palindrom.java" afterPath="$PROJECT_DIR$/../stepik/src/Palindrom.java" />
+>>>>>>> f1ad043cc25b9cc1c3a56c9159f0c0f6480fee9a
     </list>
     <ignored path="JavaRushTasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,12 +56,12 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DockManager">
-    <window id="5">
+    <window id="1">
       <content type="file-editors">
         <state>
           <leaf>
             <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Условие.jrtc">
+              <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Условие.jrtc">
                 <provider selected="true" editor-type-id="EditorTypeId">
                   <state />
                 </provider>
@@ -40,11 +77,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Solution.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="345">
               <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+=======
+            <state relative-caret-position="120">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+              <folding>
+                <element signature="e#2151#2152#0" expanded="true" />
+                <element signature="e#2192#2193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Валидация" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+          <provider selected="true" editor-type-id="EditorTypeId">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="2708" column="7" lean-forward="true" selection-start-line="2708" selection-start-column="7" selection-end-line="2708" selection-end-column="7" />
+>>>>>>> f1ad043cc25b9cc1c3a56c9159f0c0f6480fee9a
               <folding />
             </state>
           </provider>
@@ -75,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0909/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0910/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0911/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0912/Solution.java" />
@@ -126,6 +187,7 @@
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Условие.jrtc" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java" />
       </list>
     </option>
   </component>
@@ -135,9 +197,27 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,10 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,10 +282,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -440,7 +520,7 @@
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Desktop/IDEA DICTIONARIES" Dictionaries="0" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\dehkon\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -475,7 +555,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -485,11 +566,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -528,37 +609,15 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task05/task0524/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0606/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0606/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0605/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task06/task0605/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId">
         <state />
@@ -684,11 +743,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file:///var/folders/10/5px6jcv51xl1qztv2mlftylh0000gn/T/Компиляция">
-      <provider selected="true" editor-type-id="EditorTypeId">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/10/5px6jcv51xl1qztv2mlftylh0000gn/T/Компиляция" />
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task07/task0728/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId">
         <state />
@@ -698,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -721,9 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#261#269#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,9 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="e#313#330#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,9 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="e#480#497#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,10 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#494#509#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,7 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,11 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1090#1091#0" expanded="false" />
-            <element signature="e#1131#1132#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -847,16 +874,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/10/5px6jcv51xl1qztv2mlftylh0000gn/T/Валидация">
+    <entry file="file:///var/folders/10/5px6jcv51xl1qztv2mlftylh0000gn/T/Валидация" />
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Условие.jrtc">
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId">
         <state />
       </provider>
@@ -868,12 +895,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="345">
           <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+=======
+        <state relative-caret-position="750">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+>>>>>>> f1ad043cc25b9cc1c3a56c9159f0c0f6480fee9a
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#2151#2152#0" expanded="true" />
+            <element signature="e#2192#2193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="2708" column="7" lean-forward="true" selection-start-line="2708" selection-start-column="7" selection-end-line="2708" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
+      </provider>
+    </entry>
+>>>>>>> f1ad043cc25b9cc1c3a56c9159f0c0f6480fee9a
   </component>
   <component name="masterDetails">
     <states>
