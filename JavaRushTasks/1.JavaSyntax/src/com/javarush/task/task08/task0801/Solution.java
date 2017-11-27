@@ -5,8 +5,6 @@ HashSet из растений
 */
 
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Set;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
@@ -26,7 +24,6 @@ public class Solution {
         for (String text: hashSet) {
             System.out.println(text);
         }
-       // hashSet.forEach(System.out::println);
 
     }
 }
