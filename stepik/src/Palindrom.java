@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import static jdk.nashorn.internal.objects.NativeString.toLowerCase;
+//import static jdk.nashorn.internal.objects.NativeString.toLowerCase;
 
 /**
  * Created by dehkon on 25.02.2017.
