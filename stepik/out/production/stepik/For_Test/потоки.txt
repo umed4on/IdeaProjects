@@ -1,0 +1,8 @@
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String location = reader.readLine();
+        BufferedWriter writer = new BufferedWriter(new FileWriter(location));
+        // /Users/dehkon/myGit/IdeaProjects/stepik/src/For_Test/source.txt
+       // InputStream inStream = new FileInputStream(location);
+        // OutputStream outputStream = new FileOutputStream(location);
+        BufferedReader fileReader = new BufferedReader(new FileReader(new File(location)));
+        BufferedReader(new InputStreamReader(new FileInputStream(br.readLine())));

@@ -1,16 +1,15 @@
-package For_Test;
+package com.javarush.task.task13.task1326;
+
+/* 
+Сортировка четных чисел из файла
+*/
 
 import java.io.*;
-import java.lang.reflect.Array;
-import java.util.*;
+import java.util.ArrayList;
 
 import static java.util.Collections.sort;
 
-/**
- * Created by dehkon on 25.11.17.
- */
-
-    public class FOR_ALL {
+public class Solution {
     public static void main(String[] args) throws IOException {
         // напишите тут ваш код
         ArrayList<Integer> arrayList = new ArrayList<>();
@@ -34,4 +33,3 @@ import static java.util.Collections.sort;
         }
     }
 }
-

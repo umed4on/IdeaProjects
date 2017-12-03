@@ -4,16 +4,20 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class All2 {
-    public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String s= reader.readLine();
-        while (!s.isEmpty()){
-            System.out.println("app");
-            s = reader.readLine();
-        }
-        System.out.println("end");
+import static java.util.Arrays.sort;
 
+public class All2 {
+    public static void main(String[] args) throws Exception {
+    int[] array = new int[5];
+    array[0]=1;
+    array[1]=0;
+    array[2]=500;
+    array[3]=4;
+    array[4]=2;
+    sort(array);
+    for(int i=0; i< 5; i++){
+        System.out.println(array[i]);
+    }
     }
 
 }
